@@ -1,6 +1,6 @@
 {
-  "short_name": "Iyed Belguith",
-  "name": "Hello, This my Portfolio, I hope you like it.",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
