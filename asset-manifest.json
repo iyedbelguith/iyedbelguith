@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "/iyedbelguith/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/iyedbelguith/static/js/main.36e8a0e0.chunk.js",
-    "main.js.map": "/iyedbelguith/static/js/main.36e8a0e0.chunk.js.map",
+    "main.css": "/iyedbelguith/static/css/main.02592ea4.chunk.css",
+    "main.js": "/iyedbelguith/static/js/main.e6ccc1cb.chunk.js",
+    "main.js.map": "/iyedbelguith/static/js/main.e6ccc1cb.chunk.js.map",
     "runtime-main.js": "/iyedbelguith/static/js/runtime-main.f367ad49.js",
     "runtime-main.js.map": "/iyedbelguith/static/js/runtime-main.f367ad49.js.map",
-    "static/js/2.bffbc522.chunk.js": "/iyedbelguith/static/js/2.bffbc522.chunk.js",
-    "static/js/2.bffbc522.chunk.js.map": "/iyedbelguith/static/js/2.bffbc522.chunk.js.map",
+    "static/js/2.747f9292.chunk.js": "/iyedbelguith/static/js/2.747f9292.chunk.js",
+    "static/js/2.747f9292.chunk.js.map": "/iyedbelguith/static/js/2.747f9292.chunk.js.map",
     "index.html": "/iyedbelguith/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/iyedbelguith/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.bffbc522.chunk.js.LICENSE.txt": "/iyedbelguith/static/js/2.bffbc522.chunk.js.LICENSE.txt"
+    "static/css/main.02592ea4.chunk.css.map": "/iyedbelguith/static/css/main.02592ea4.chunk.css.map",
+    "static/js/2.747f9292.chunk.js.LICENSE.txt": "/iyedbelguith/static/js/2.747f9292.chunk.js.LICENSE.txt",
+    "static/media/Edgeryders.917bc37e.png": "/iyedbelguith/static/media/Edgeryders.917bc37e.png",
+    "static/media/Lightency.e5e46e37.png": "/iyedbelguith/static/media/Lightency.e5e46e37.png",
+    "static/media/Medialog.bae93075.png": "/iyedbelguith/static/media/Medialog.bae93075.png",
+    "static/media/mac-draco.a5715f0d.glb": "/iyedbelguith/static/media/mac-draco.a5715f0d.glb",
+    "static/media/ourghema1.27002a44.png": "/iyedbelguith/static/media/ourghema1.27002a44.png",
+    "static/media/uib.e62d5872.png": "/iyedbelguith/static/media/uib.e62d5872.png",
+    "static/media/video.b34212c7.mp4": "/iyedbelguith/static/media/video.b34212c7.mp4",
+    "static/media/wave.4b8caa06.svg": "/iyedbelguith/static/media/wave.4b8caa06.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f367ad49.js",
-    "static/js/2.bffbc522.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.36e8a0e0.chunk.js"
+    "static/js/2.747f9292.chunk.js",
+    "static/css/main.02592ea4.chunk.css",
+    "static/js/main.e6ccc1cb.chunk.js"
   ]
 }
