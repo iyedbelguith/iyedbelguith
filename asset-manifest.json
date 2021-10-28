@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iyedbelguith/static/css/main.9c8e8e30.chunk.css",
-    "main.js": "/iyedbelguith/static/js/main.093b4eb2.chunk.js",
-    "main.js.map": "/iyedbelguith/static/js/main.093b4eb2.chunk.js.map",
+    "main.js": "/iyedbelguith/static/js/main.5e0670ed.chunk.js",
+    "main.js.map": "/iyedbelguith/static/js/main.5e0670ed.chunk.js.map",
     "runtime-main.js": "/iyedbelguith/static/js/runtime-main.f367ad49.js",
     "runtime-main.js.map": "/iyedbelguith/static/js/runtime-main.f367ad49.js.map",
-    "static/js/2.f7a1385d.chunk.js": "/iyedbelguith/static/js/2.f7a1385d.chunk.js",
-    "static/js/2.f7a1385d.chunk.js.map": "/iyedbelguith/static/js/2.f7a1385d.chunk.js.map",
+    "static/js/2.44b9ded5.chunk.js": "/iyedbelguith/static/js/2.44b9ded5.chunk.js",
+    "static/js/2.44b9ded5.chunk.js.map": "/iyedbelguith/static/js/2.44b9ded5.chunk.js.map",
     "index.html": "/iyedbelguith/index.html",
     "static/css/main.9c8e8e30.chunk.css.map": "/iyedbelguith/static/css/main.9c8e8e30.chunk.css.map",
-    "static/js/2.f7a1385d.chunk.js.LICENSE.txt": "/iyedbelguith/static/js/2.f7a1385d.chunk.js.LICENSE.txt",
+    "static/js/2.44b9ded5.chunk.js.LICENSE.txt": "/iyedbelguith/static/js/2.44b9ded5.chunk.js.LICENSE.txt",
     "static/media/AideRenov.3d17dbdb.png": "/iyedbelguith/static/media/AideRenov.3d17dbdb.png",
     "static/media/BootCamp.bacfa991.jpg": "/iyedbelguith/static/media/BootCamp.bacfa991.jpg",
     "static/media/Dashboard.b2c9bbd8.png": "/iyedbelguith/static/media/Dashboard.b2c9bbd8.png",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f367ad49.js",
-    "static/js/2.f7a1385d.chunk.js",
+    "static/js/2.44b9ded5.chunk.js",
     "static/css/main.9c8e8e30.chunk.css",
-    "static/js/main.093b4eb2.chunk.js"
+    "static/js/main.5e0670ed.chunk.js"
   ]
 }
